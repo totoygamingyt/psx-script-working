@@ -1,1 +1,2 @@
-wtf bro.. dont exploit lol
+print("stop exploiting bro")
+game:shutdown()
